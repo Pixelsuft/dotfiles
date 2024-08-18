@@ -1,0 +1,16 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+PATH=/home/lexa/.local/bin:/home/lexa/Android/Sdk/platform-tools:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+LD_LIBRARY_PATH=/usr/local/lib64:/usr/lib64:/usr/local/lib:/usr/lib
+ANDROID_HOME=/home/lexa/Android/Sdk
+ANDROID_NDK_HOME=/home/lexa/Android/Sdk/ndk/27.0.12077973
+GTK_THEME=Adwaita:dark
+QT_QPA_PLATFORMTHEME=qt6ct
+SDL_AUDIODRIVER=pipewire
+EDITOR=nano
+SDL_VIDEODRIVER=x11
+CC=clang
+CXX=clang++
