@@ -1,2 +1,2 @@
 #!/bin/sh
-./ciadpi --fake -1 --ttl 8 --port 8080
+./ciadpi --fake -1 --ttl 8 --port 8080 --hosts hosts.txt
