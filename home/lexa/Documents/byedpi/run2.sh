@@ -1,2 +1,2 @@
 #!/bin/sh
-./ciadpi --fake -1 --ttl 8 --port 8080
+./ciadpi --port 8080 -s1 -o1 -Ar -o1 -At - f-1 -r1+s -As
